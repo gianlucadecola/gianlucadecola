@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gianlucadecola
-- 👀 I’m interested in improving my coding skills
+- 👀 I’m interested in working on open source projects
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: gianluca.deco@gmail.com
 
 <!---
