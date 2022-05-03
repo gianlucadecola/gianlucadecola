@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gianlucadecola
-- 👀 I’m interested in working on open source projects
-- 🌱 I’m currently learning Angular
+- 👀 I’m a software developer working on backend stuff and Machine Learning
 - 📫 How to reach me: gianluca.deco@gmail.com
 
 <!---
